@@ -1,0 +1,16 @@
+{
+  "name": "simon-tech-inc",
+  "version": "1.0.0",
+  "description": "SIMON DOMAIN INC - Domain Registrar",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
