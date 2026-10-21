@@ -1,0 +1,6 @@
+services:
+    - type: web
+    name: simon-tech-inc
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
